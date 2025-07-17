@@ -6,7 +6,9 @@ export function NotFound() {
           <h2 className="text-3xl font-bold text-primary mb-8">
             404 - Not Found
           </h2>
-          <p>The page you are looking for doesn't exist</p>
+          <p className="text-muted-foreground">
+            The page you are looking for doesn't exist
+          </p>
         </div>
       </div>
     </>

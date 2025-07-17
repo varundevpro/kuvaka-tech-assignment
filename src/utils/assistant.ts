@@ -1,4 +1,4 @@
-import { type ChatMessage } from '../features/chatRooms/chatRoomsSlice'; // Assuming ChatMessage is defined here
+import { type ChatMessage } from '@/features/chatRooms/chatRoomsSlice'; // Assuming ChatMessage is defined here
 import { v4 as uuidv4 } from 'uuid';
 
 export interface AssistantResponseTemplate {

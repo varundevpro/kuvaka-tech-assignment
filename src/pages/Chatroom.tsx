@@ -6,20 +6,20 @@ import { v4 as uuidv4 } from "uuid";
 import {
   ChatContainerContent,
   ChatContainerRoot,
-} from "@/components/prompt-kit/chat-container";
+} from "@/components/ui/chat-container";
 import {
   Message,
   MessageAction,
   MessageActions,
   MessageContent,
-} from "@/components/prompt-kit/message";
+} from "@/components/ui/message";
 import {
   PromptInput,
   PromptInputAction,
   PromptInputActions,
   PromptInputTextarea,
-} from "@/components/prompt-kit/prompt-input";
-import { ScrollButton } from "@/components/prompt-kit/scroll-button";
+} from "@/components/ui/prompt-input";
+import { ScrollButton } from "@/components/ui/scroll-button";
 import { Button } from "@/components/ui/button";
 
 import { cn } from "@/lib/utils";

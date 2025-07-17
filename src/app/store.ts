@@ -11,9 +11,9 @@ import {
   type PersistConfig,
 } from 'redux-persist'
 import storage from 'redux-persist/lib/storage'
-import authReducer from '../features/auth/authSlice';
-import countriesReducer from '../features/countries/countriesSlice';
-import chatRoomsReducer from '../features/chatRooms/chatRoomsSlice';
+import authReducer from '@/features/auth/authSlice';
+import countriesReducer from '@/features/countries/countriesSlice';
+import chatRoomsReducer from '@/features/chatRooms/chatRoomsSlice';
 
 
 
