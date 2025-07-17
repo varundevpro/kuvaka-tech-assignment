@@ -72,3 +72,9 @@ You can find the components in `components` folder:
 **Form Validation:** Handled comprehensively using React Hook Form and Zod. Zod schemas define the validation rules for form inputs. These schemas are then integrated with React Hook Form, which manages form state, input registration, and applies the Zod validation rules on submission or input change, displaying error messages to the user.
 
 ## Screenshots
+
+<img width="1438" height="690" alt="image" src="https://github.com/user-attachments/assets/47ba31c0-eabe-40cc-bf9a-df8fe60fac03" />
+
+<img width="1437" height="689" alt="image" src="https://github.com/user-attachments/assets/718e413c-e4f6-4448-8a77-88bb4033adcd" />
+
+<img width="1440" height="699" alt="image" src="https://github.com/user-attachments/assets/7f81ade0-3521-4e58-b5f4-8ae45abcfb27" />
